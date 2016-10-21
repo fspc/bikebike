@@ -7,4 +7,4 @@ It provides *MySQL* and *Ruby* since the majority of software written for the [B
 Keeping things simple Supported Tags (Ubuntu Versions) are now being utilized:
 
 * Ubuntu 14.04 (LTS) - [14.04/Dockerfile](https://github.com/fspc/bikebike/blob/master/14.04/Dockerfile)
-
+* Ubuntu 16.04 (LTS) - [16.04/Dockerfile](https://github.com/fspc/bikebike/blob/master/16.04/Dockerfile)
