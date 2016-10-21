@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:14.04
 MAINTAINER Jonathan Rosenbaum <gnuser@gmail.com> 
 
 # Not all applications use mysql, but nevertheless.
